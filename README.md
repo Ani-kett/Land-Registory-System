@@ -1,5 +1,5 @@
-# Land-Registory-System
-The Land Registry System is a decentralized application (DApp) built on Ethereum Blockchain using Solidity, Truffle, Web3.js, and Ganache. It provides a transparent, immutable, and secure platform for managing land ownership records.
+  # Land-Registory-System
+The Land Registry System is a decentralized application (DApp) built on Ethereum Blockchain using Solidity, Truffle, Web3.js, and Ganache. It provides a transparent, immutable, and secure platform for managing land ownership records. This project was created under the blockchain technology internship with VOIS and the Connecting Dreams Foundation.
 
 # Main Functionality
 * Secure Land Ownership Records: Store and verify land ownership details on the blockchain.
